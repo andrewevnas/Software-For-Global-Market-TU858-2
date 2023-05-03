@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: capitalize;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+html {
+  font-size: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  scroll-padding-top: 9rem;
+}
+
+html::-webkit-scrollbar {
+  width: 1rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: #F8F8F8;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #FF6B6B;
+  border-radius: 5rem;
+}
+
+body {
+  background: #F8F8F8;
+  overflow-x: hidden;
+}
+
+.header {
+  font-size: 300%;
+  text-align: center;
+  margin-bottom: 2rem;
+  padding: 3rem 9%;
+}
+
+section {
+  padding: 3rem 9%;
+  text-align: center;
+}
+
+.box-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(27rem, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
+  gap: 1.5rem;
+}
+
+.box-container .box {
+    padding: 3rem 9%;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: #FFFFE8;
+  }
+
+.box-container .box label {
+  font-size: 2rem;
+  color: #111;
+  cursor: pointer;
+  }
+
+  .box-container .box: hover label {
+  padding-left: 1rem;
+}
+
+.box-container button {
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem 3rem;
+  font-size: 1.7rem;
+  color: #111;
+  border: 0.2rem solid #111;
+  border-radius: 5rem;
+  cursor: pointer;
+  background: none;
+}
+
+.box-container button:hover {
+  background: #FFFFE8;
+}
+
