@@ -1,0 +1,76 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-03 23:31+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: templates/option2/index.html:7
+msgid "Eiffel Tours Germany"
+msgstr ""
+
+#: templates/option2/index.html:18
+msgid "Home"
+msgstr ""
+
+#: templates/option2/index.html:19
+msgid "About"
+msgstr ""
+
+#: templates/option2/index.html:20
+msgid "Explore"
+msgstr ""
+
+#: templates/option2/index.html:32
+msgid "VISIT"
+msgstr ""
+
+#: templates/option2/index.html:32
+msgid "PARIS"
+msgstr ""
+
+#: templates/option2/index.html:33 templates/option2/index.html:42
+#: templates/option2/index.html:51
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut\n"
+"          labore et dolore magna aliqua. Ut enim ad minim veniam, quis "
+"nostrud exercitation ullamco laboris nisi\n"
+"          ut aliquip ex ea commodo consequat. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum\n"
+"          dolore eu fugiat nulla pariatur."
+msgstr ""
+
+#: templates/option2/index.html:37 templates/option2/index.html:46
+#: templates/option2/index.html:55
+msgid "BOOK NOW"
+msgstr ""
+
+#: templates/option2/index.html:41
+msgid "SEE THE"
+msgstr ""
+
+#: templates/option2/index.html:41
+msgid "SIGHTS"
+msgstr ""
+
+#: templates/option2/index.html:50
+msgid "BEAUTIFUL"
+msgstr ""
+
+#: templates/option2/index.html:50
+msgid "AND QUIET"
+msgstr ""
+

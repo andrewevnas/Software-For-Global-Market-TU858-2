@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # a function which at the moment returns a 2 letter string code for a locale
 def get_locale():
-    return 'en'
+    return 'de'
 #Hook Babel into your app and pass the local returned by get_locale to it
 babel = Babel(app, locale_selector=get_locale)
 
